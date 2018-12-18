@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VelibService</string>
+    <string name="local_service_started">VelibService started</string>
     <string name="action_settings">Settings</string>
 </resources>
